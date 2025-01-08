@@ -1,4 +1,4 @@
-# spam-classification
+# Email Spam-Classification
 # summary
 Developed a robust machine learning pipeline to classify SMS messages as spam or ham using the SMS Spam Collection dataset. The dataset comprises 5,574 SMS messages, each tagged as either spam (unsolicited/irrelevant messages) or ham (legitimate messages). The objective was to build an efficient classification model to detect spam messages accurately.
 Workflow Details:
